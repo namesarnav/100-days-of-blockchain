@@ -1,7 +1,5 @@
-Absolute Madness
+[[https://imgflip.com/i/9nc3tb]]
 ---
-## Phase 1: Foundations & Bitcoin/Ethereum (Days 1-30)
-
 ### Day 1: What is Blockchain?
 
 - **Original Task**: Watch FreeCodeCamp's "Blockchain for Beginners" (1 hr) and write a 200-word summary.
