@@ -1,5 +1,6 @@
-[[https://imgflip.com/i/9nc3tb]]
----
+
+![9nc3tb](https://github.com/user-attachments/assets/c462e3be-121f-4019-b675-262b40cf31ac)
+
 ### Day 1: What is Blockchain?
 
 - **Original Task**: Watch FreeCodeCamp's "Blockchain for Beginners" (1 hr) and write a 200-word summary.
